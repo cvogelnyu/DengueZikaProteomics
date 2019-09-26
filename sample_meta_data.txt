@@ -1,0 +1,145 @@
+RunOrder	File Name	Run_Date_SM	Order_within_batch	Problem	Randomized_Order	PatientID	Diagnosed_Type	Sample_TimePoint	Days_since_onset	Laboratory_Diagnosis	IgM	IgG	BodyPain	Rash	Headache	Fever	PainBehindEye	Vomit	Gender	Age	Race	SampleID	Original_Order	Well_Location	Sample Type	Date_Aliquotted_at_UGA	Sample_received_NYU	No_of_aliquots	aliquot_volume_uL	PeptideQuant	Date_Collected 	Days_since_onset_corrected
+1	180330_01_sample_QC01	180330	1		QC_run_01																											
+2	180330_02_sample_39_patient_54_Dengue_2	180330	2		39	54	Dengue	2nd	3	"IgM, IgG"	1	1	0	0	0	0	0	0	Female	23	Indo	ZTS0542	34	P1:D3	Serum	17/2/17	24/2/17	2	100	334	12/1/2016	8
+3	180330_03_sample_42_patient_26_Zika_2	180330	3		42	26	Zika	2nd	3	"Body Pain, Rash, Headache, Fever, Pain Behind Eye"	0	0	1	1	1	1	1	0	Female		Afro	ZTS0262	6	P1:D6	Serum	17/2/17	24/2/17	2	100	196	8/29/2016	10
+4	180330_04_sample_51_patient_52_Zika_1	180330	4		51	52	Zika	1st	3	"Body Pain, Rash, Headache, Fever, Pain Behind Eye"	0	0	1	1	1	1	1	0	Male	40	Afro	ZTS0521	29	P2:A3	Serum	17/2/17	24/2/17	2	100	336	12/2/2016	3
+5	180330_05_sample_52_patient_27_Zika_2	180330	5		52	27	Zika	2nd	2	"Body Pain, Rash, Headache, Fever, Pain Behind Eye"	0	0	1	1	1	1	1	0	Male		Indo	ZTS0272	8	P2:A4	Serum	17/2/17	24/2/17	2	100	328	8/29/2016	8
+6	180330_06_sample_73_patient_31_Zika_2	180330	6		73	31	Zika	2nd	3	"Body Pain, Rash, Headache, Fever, Pain Behind Eye"	0	0	1	1	1	1	1	0	Female	34	Afro	ZTS0312	16	P2:C1	Serum	17/2/17	24/2/17	2	100	704	10/24/2016	8
+7	180330_07_sample_13_patient_53_Dengue_1	180330	7		13	53	Dengue	1st	4	"IgM, IgG"	1	1	0	0	0	0	0	0	Female	36	Indo	ZTS0531	31	P1:B1	Serum	17/2/17	24/2/17	2	100	462	12/7/2016	4
+8	180330_08_sample_03_patient_44_Dengue_1	180330	8		3	44	Dengue	1st	2	"IgM, IgG"	1	1	0	0	0	0	0	0	Female	33	Indo	ZTS0441	21	P1:A3	Serum	17/2/17	24/2/17	2	100	288	11/17/2016	2
+9	180330_09_sample_43_patient_54_Dengue_1	180330	9		43	54	Dengue	1st	3	"IgM, IgG"	1	1	0	0	0	0	0	0	Female	23	Indo	ZTS0541	33	P1:D7	Serum	17/2/17	24/2/17	2	100	266	11/26/2016	3
+10	180330_10_sample_57_patient_57_Dengue_2	180330	10		57	57	Dengue	2nd	3	"IgM, IgG"	1	1	0	0	0	0	0	0	Female		Indo	ZTS0572	40	P2:A9	Serum	17/2/17	24/2/17	2	100	258	12/13/2016	7
+11	180403_01_sample_QC02	180403	1		QC_run_02																											
+12	180403_02_sample_95_patient_31_Zika_1	180403	2		95	31	Zika	1st	3	"Body Pain, Rash, Headache, Fever, Pain Behind Eye, Vomitting"	0	0	1	1	1	1	1	1	Female	34	Afro	ZTS0311	15	P2:D11	Serum	17/2/17	24/2/17	2	100	406	10/19/2016	3
+13	180403_03_sample_117_patient_26_Zika_1	180403	3		117	26	Zika	1st	3	"Body Pain, Rash, Headache, Fever, Pain Behind Eye, Vomitting"	0	0	1	1	1	1	1	1	Female		Afro	ZTS0261	5	P3:B9	Serum	17/2/17	24/2/17	2	100	473	8/22/2016	3
+14	180403_04_sample_80_patient_48_Dengue_2	180403	4	x	80	48	Dengue	2nd	4	"IgM, IgG"	1	1	0	0	0	0	0	0	Female		Indo	ZTS0482	24	P2:C8	Serum	17/2/17	24/2/17	1	100	0	11/26/2016	9
+15	180403_05_sample_09_patient_52_Zika_2	180403	5		9	52	Zika	2nd	3	"Body Pain, Rash, Headache, Fever, Pain Behind Eye"	0	0	1	1	1	1	1	0	Male	40	Afro	ZTS0522	30	P1:A9	Serum	17/2/17	24/2/17	2	100	96	12/7/2016	8
+16	180421_01_sample_QC03	180421	1		QC_run_03																											
+17	180421_02_sample_94_patient_57_Dengue_1	180421	2		94	57	Dengue	1st	3	"IgM, IgG"	1	1	0	0	0	0	0	0	Female		Indo	ZTS0571	39	P2:D10	Serum	17/2/17	24/2/17	2	100	394	12/9/2016	3
+18	180421_03_sample_113_patient_44_Dengue_2	180421	3		113	44	Dengue	2nd	2	"IgM, IgG"	1	1	0	0	0	0	0	0	Female	33	Indo	ZTS0442	22	P3:B5	Serum	17/2/17	24/2/17	2	100	159	11/22/2016	7
+19	180421_04_sample_01_patient_51_Zika_2	180421	4		1	51	Zika	2nd	4	"Body Pain, Rash, Headache, Fever, Pain Behind Eye"	0	0	1	1	1	1	1	0	Male	33	Afro	ZTS0512	28	P1:A1	Serum	17/2/17	24/2/17	2	100	220	11/30/2016	10
+20	180421_05_sample_02_patient_86_Dengue_1	180421	5		2	86	Dengue	1st	5	"Body Pain, Rash, Fever"	0	0	1	1	0	1	0	0	Female	30	Indo	ZTS0861	93	P1:A2	Serum		16/11/17	2	100	430	6/27/2017	5
+21	180421_06_sample_04_patient_88_Dengue_1	180421	6		4	88	Dengue	1st	7	"Body Pain, Rash, Fever"	0	0	1	1	0	1	0	0	Male	42	Indo	ZTS0881	97	P1:A4	Serum		16/11/17	2	100	388	7/3/2017	7
+22	180421_07_sample_05_patient_71_Dengue_1	180421	7		5	71	Dengue	1st											Female	45	Indo	ZTS0711	67	P1:A5	Serum	8/9/2017	17/8/17	1	200	250	4/9/2017	
+23	180421_08_sample_06_patient_18_Zika_1	180421	8		6	18	Zika	1st	5										Female	28	Indo	ZTS0181	1	P1:A6	Serum	17/2/17	24/2/17	2	100	450	8/14/2016	5
+24	180421_09_sample_07_patient_30_Zika_1	180421	9		7	30	Zika	1st	4	"Body Pain, Rash, Headache, Fever, Pain Behind Eye, Vomitting"	0	0	1	1	1	1	1	1	Female	44	Indo	ZTS0301	13	P1:A7	Serum	17/2/17	24/2/17	2	100	580	9/18/2016	4
+25	180421_10_sample_08_patient_99_Dengue_2	180421	10		8	99	Dengue	2nd	7	"Body Pain, Rash, Fever, IgM, IgG"	1	1	1	1	0	1	0	0	Male		Indo	ZTS0992	120	P1:A8	Serum		16/11/17	2	100	272	7/25/2017	14
+26	180423_01_sample_QC04	180423	1		QC_run_04																											
+27	180423_02_sample_110_patient_70_Zika_2	180423	2		110	70	Zika	2nd	3	"Body Pain, Rash, Fever, Vomitting"	0	0	1	1	0	1	0	1	Female	30	Indo	ZTS0702	66	P3:B2	Serum	8/9/2017	17/8/17	1	200	290	4/27/2017	7
+28	180423_03_sample_103_patient_27_Zika_1	180423	3		103	27	Zika	1st	2	"Body Pain, Rash, Headache, Fever, Pain Behind Eye"	0	0	1	1	1	1	1	0	Male		Indo	ZTS0271	7	P3:A7	Serum	17/2/17	24/2/17	2	100	324	8/23/2016	2
+29	180423_04_sample_116_patient_53_Dengue_2	180423	4		116	53	Dengue	2nd	4	"IgM, IgG"	1	1	0	0	0	0	0	0	Female	36	Indo	ZTS0532	32	P3:B8	Serum	17/2/17	24/2/17	2	100	595	12/12/2016	9
+30	180423_05_sample_31_patient_70_Zika_1	180423	5		31	70	Zika	1st	3	"Body Pain, Rash, Fever, Vomitting"	0	0	1	1	0	1	0	1	Female	30	Indo	ZTS0701	65	P1:C7	Serum	8/9/2017	17/8/17	1	200	436	4/23/2017	3
+31	180423_06_sample_47_patient_48_Dengue_1	180423	6	x	47	48	Dengue	1st	4	"IgM, IgG"	1	1	0	0	0	0	0	0	Female		Indo	ZTS0481	23	P1:D11	Serum	17/2/17	24/2/17	2	100	0	11/21/2016	4
+32	180424_01_sample_QC05	180424	1		QC_run_05																											
+33	180424_02_sample_10_patient_58_Dengue_2	180424	2		10	58	Dengue	2nd											Female	25	Indo	ZTS0582	42	P1:A10	Serum	8/9/2017	17/8/17	1	200	348	3/12/2017	
+34	180424_03_sample_11_patient_60_Dengue_1	180424	3		11	60	Dengue	1st											Female	26	Afro	ZTS0601	45	P1:A11	Serum	8/9/2017	17/8/17	1	200	410	3/7/2017	
+35	180424_04_sample_12_patient_84_Dengue_2	180424	4		12	84	Dengue	2nd	5	"Body Pain, Rash, Fever"	0	0	1	1	0	1	0	0	Female		Afro	ZTS0842	90	P1:A12	Serum		16/11/17	2	100	78	6/30/2017	9
+36	180424_05_sample_14_patient_79_Dengue_2	180424	5		14	79	Dengue	2nd	5	"Body Pain, Rash, Fever, IgM, IgG"	1	1	1	1	0	1	0	0	Female	26	Indo	ZTS0792	82	P1:B2	Serum		16/11/17	2	100	384	5/29/2017	10
+37	180424_06_sample_15_patient_28_Zika_2	180424	6		15	28	Zika	2nd	3	"Body Pain, Rash, Headache, Fever, Pain Behind Eye"	0	0	1	1	1	1	1	0	Male	36	Indo	ZTS0282	10	P1:B3	Serum	17/2/17	24/2/17	2	100	364	9/1/2016	10
+38	180426_01_sample_QC06	180426	1		QC_run_06																											
+39	180426_02_sample_16_patient_29_Zika_1	180426	2		16	29	Zika	1st	3	"Body Pain, Rash, Headache, Fever, Pain Behind Eye"	0	0	1	1	1	1	1	0	Female	39	Afro	ZTS0291	11	P1:B4	Serum		16/11/17	2	100	224	8/26/2016	3
+40	180426_03_sample_17_patient_28_Zika_1	180426	3		17	28	Zika	1st	3	"Body Pain, Rash, Headache, Fever, Pain Behind Eye"	0	0	1	1	1	1	1	0	Male	36	Indo	ZTS0281	9	P1:B5	Serum	17/2/17	24/2/17	2	100	200	8/25/2016	3
+41	180426_04_sample_18_patient_94_Dengue_2	180426	4		18	94	Dengue	2nd	6	"Body Pain, Rash, Fever, IgM, IgG"	1	1	1	1	0	1	0	0	Male	42	Indo	ZTS0942	110	P1:B6	Serum		16/11/17	2	100	370	7/18/2017	12
+42	180426_05_sample_19_patient_91_Dengue_1	180426	5		19	91	Dengue	1st	5	"Body Pain, Rash, Fever"	0	0	1	1	0	1	0	0	Male		Indo	ZTS0911	103	P1:B7	Serum		16/11/17	2	100	502	7/9/2017	5
+43	180508_01_sample_QC07	180508	1		QC_run_07																											
+44	180508_02_sample_20_patient_64_Zika_2	180508	2		20	64	Zika	2nd											Female	30	Afro	ZTS0642	54	P1:B8	Serum	8/9/2017	17/8/17	1	200	652	3/28/2017	
+45	180508_03_sample_21_patient_88_Dengue_2	180508	3		21	88	Dengue	2nd	7	"Body Pain, Rash, Fever"	0	0	1	1	0	1	0	0	Male	42	Indo	ZTS0882	98	P1:B9	Serum		16/11/17	2	100	310	7/10/2017	14
+46	180508_04_sample_22_patient_59_Zika_2	180508	4		22	59	Zika	2nd											Female	23	Afro	ZTS0592	44	P1:B10	Serum	8/9/2017	17/8/17	1	200	284	3/13/2017	
+47	180508_05_sample_23_patient_75_Zika_2	180508	5		23	75	Zika	2nd		"Body Pain, Rash, Fever, Vomitting"	0	0	1	1	0	1	0	1	Male	32	Indo	ZTS0752	76	P1:B11	Serum	8/9/2017	17/8/17	1	200	322	4/28/2017	
+48	180508_06_sample_24_patient_67_Zika_2	180508	6		24	67	Zika	2nd											Male	26	Afro	ZTS0672	60	P1:B12	Serum	8/9/2017	17/8/17	1	200	480	3/24/2017	
+49	180508_07_sample_25_patient_93_Dengue_1	180508	7		25	93	Dengue	1st	6	"Body Pain, Rash, Fever, IgM, IgG"	1	1	1	1	0	1	0	0	Female	43	Indo	ZTS0931	107	P1:C1	Serum		16/11/17	2	100	258	7/12/2017	6
+50	180508_08_sample_26_patient_85_Dengue_2	180508	8		26	85	Dengue	2nd	5	"Body Pain, Rash, Fever, IgM, IgG"	1	1	1	1	0	1	0	0	Male	35	Afro	ZTS0852	92	P1:C2	Serum		16/11/17	2	100	130	6/30/2017	9
+51	180508_09_sample_27_patient_98_Dengue_2	180508	9		27	98	Dengue	2nd	5	"Body Pain, Rash, Fever"	0	0	1	1	0	1	0	0	Female		Indo	ZTS0982	118	P1:C3	Serum		16/11/17	2	100	100	7/24/2017	10
+52	180508_10_sample_28_patient_29_Zika_2	180508	10		28	29	Zika	2nd	3	"Body Pain, Rash, Headache, Fever, Pain Behind Eye"	0	0	1	1	1	1	1	0	Female	39	Afro	ZTS0292	12	P1:C4	Serum	17/2/17	24/2/17	2	100	438	9/2/2016	10
+53	180511_01_sample_QC08	180511	1		QC_run_08																											
+54	180511_02_sample_29_patient_76_Zika_1	180511	2		29	76	Zika	1st		"Body Pain, Rash, Fever, Vomitting"	0	0	1	1	0	1	0	1	Male	33	Indo	ZTS0761	77	P1:C5	Serum	8/9/2017	17/8/17	1	200	482	5/3/2017	
+55	180511_03_sample_30_patient_50_Zika_1	180511	3		30	50	Zika	1st	3	"Body Pain, Rash, Headache, Fever, Pain Behind Eye"	0	0	1	1	1	1	1	0	Male		Afro	ZTS0501	25	P1:C6	Serum	17/2/17	24/2/17	2	100	220	11/4/2016	3
+56	180515_01_sample_QC09	180515	1		QC_run_09																											
+57	180515_02_sample_33_patient_76_Zika_2	180515	2		33	76	Zika	2nd		"Body Pain, Rash, Fever, Vomitting"	0	0	1	1	0	1	0	1	Male	33	Indo	ZTS0762	78	P1:C9	Serum	8/9/2017	17/8/17	1	200	364	5/8/2017	
+58	180515_03_sample_34_patient_97_Dengue_2	180515	3		34	97	Dengue	2nd	5	"Body Pain, Rash, Fever"	0	0	1	1	0	1	0	0	Male		Afro	ZTS0972	116	P1:C10	Serum		16/11/17	2	100	402	7/24/2017	10
+59	180515_04_sample_35_patient_81_Dengue_2	180515	4		35	81	Dengue	2nd	5	"Body Pain, Fever, IgG, IgM"	1	1	1	0	0	1	0	0	Male		Afro	ZTS0812	84	P1:C11	Serum		16/11/17	2	100	332	5/29/2017	
+60	180515_05_sample_36_patient_79_Dengue_1	180515	5		36	79	Dengue	1st	5	"Body Pain, Rash, Fever, IgM, IgG"	1	1	1	1	0	1	0	0	Female	26	Indo	ZTS0791	81	P1:C12	Serum		16/11/17	2	100	564	5/24/2017	5
+61	180515_06_sample_37_patient_87_Dengue_1	180515	6		37	87	Dengue	1st	5	"Body Pain, Rash, Fever"	0	0	1	1	0	1	0	0	Male	33	Indo	ZTS0871	95	P1:D1	Serum		16/11/17	2	100	36	7/1/2017	5
+62	180515_07_sample_38_patient_75_Zika_1	180515	7		38	75	Zika	1st		"Body Pain, Rash, Fever, Vomitting"	0	0	1	1	0	1	0	1	Male	32	Indo	ZTS0751	75	P1:D2	Serum	8/9/2017	17/8/17	1	200	452	4/24/2017	
+63	180515_08_sample_32_patient_82_Dengue_1	180515	8		32	82	Dengue	1st	6	"Body Pain, Rash, Fever, IgM, IgG"	1	1	1	1	0	1	0	0	Male		Afro	ZTS0821	85	P1:C8	Serum		16/11/17	2	100	256	6/1/2017	6
+64	180517_01_sample_QC10	180517	1		QC_run_10																											
+65	180517_03_sample_41_patient_74_Zika_2	180517	3		41	74	Zika	2nd		"Body Pain, Rash, Fever, Vomitting"	0	0	1	1	0	1	0	1	Male	41	Afro	ZTS0742	74	P1:D5	Serum	8/9/2017	17/8/17	1	200	386	4/28/2017	
+66	180517_04_sample_44_patient_92_Dengue_1	180517	4		44	92	Dengue	1st	5	"Body Pain, Rash, Fever, IgM, IgG"	1	1	1	1	0	1	0	0	Female	33	Indo	ZTS0921	105	P1:D8	Serum		16/11/17	2	100	216	7/9/2017	5
+67	180517_06_sample_46_patient_62_Zika_2	180517	6		46	62	Zika	2nd											Male	28	Afro	ZTS0622	50	P1:D10	Serum	8/9/2017	17/8/17	1	200	684	3/13/2017	
+68	180517_07_sample_48_patient_73_Zika_1	180517	7		48	73	Zika	1st		"Body Pain, Rash, Fever"	0	0	1	1	0	1	0	0	Female	26	Afro	ZTS0731	71	P1:D12	Serum	8/9/2017	17/8/17	1	200	592	4/24/2017	
+69	180517_09_sample_50_patient_93_Dengue_2	180517	9		50	93	Dengue	2nd	6	"Body Pain, Rash, Fever, IgM, IgG"	1	1	1	1	0	1	0	0	Female	43	Indo	ZTS0932	108	P2:A2	Serum		16/11/17	2	100	234	7/18/2017	12
+70	180517_10_sample_53_patient_59_Zika_1	180517	10		53	59	Zika	1st											Female	23	Afro	ZTS0591	43	P2:A5	Serum	8/9/2017	17/8/17	1	200	294	3/4/2017	
+71	180520_01_sample_QC11	180520	1		QC_run_11 (15)																											
+72	180520_02_sample_54_patient_96_Dengue_1	180520	2		54	96	Dengue	1st	5	"Body Pain, Rash, Fever, IgM, IgG"	1	1	1	1	0	1	0	0	Female	35	Indo	ZTS0961	113	P2:A6	Serum		16/11/17	2	100	236	7/19/2017	5
+73	180520_03_sample_55_patient_84_Dengue_1	180520	3		55	84	Dengue	1st	5	"Body Pain, Rash, Fever"	0	0	1	1	0	1	0	0	Female		Afro	ZTS0841	89	P2:A7	Serum		16/11/17	2	100	92	6/26/2017	5
+74	180520_04_sample_56_patient_62_Zika_1	180520	4		56	62	Zika	1st											Male	28	Afro	ZTS0621	49	P2:A8	Serum	8/9/2017	17/8/17	1	200	510	3/6/2017	
+75	180520_05_sample_58_patient_61_Zika_2	180520	5		58	61	Zika	2nd											Female	29	Afro	ZTS0612	48	P2:A10	Serum	8/9/2017	17/8/17	1	200	392	3/10/2017	
+76	180520_06_sample_59_patient_72_Zika_2	180520	6		59	72	Zika	2nd		"Body Pain, Rash, Fever"	0	0	1	1	0	1	0	0	Male	51	Afro	ZTS0722	70	P2:A11	Serum	8/9/2017	17/8/17	1	200	430	4/28/2017	
+77	180520_07_sample_60_patient_64_Zika_1	180520	7		60	64	Zika	1st											Female	30	Afro	ZTS0641	53	P2:A12	Serum	8/9/2017	17/8/17	1	200	554	3/21/2017	
+78	180520_08_sample_61_patient_50_Zika_2	180520	8		61	50	Zika	2nd	3	"Body Pain, Rash, Headache, Fever, Pain Behind Eye"	0	0	1	1	1	1	1	0	Male		Afro	ZTS0502	26	P2:B1	Serum	17/2/17	24/2/17	2	100	522	11/9/2016	8
+79	180520_09_sample_62_patient_100_Dengue_1	180520	9		62	100	Dengue	1st	6	"Body Pain, Rash, Fever, IgM, IgG"	1	1	1	1	0	1	0	0	Female		Indo	ZTS1001	121	P2:B2	Serum		16/11/17	2	100	206	7/23/2017	6
+80	180520_10_sample_63_patient_33_Zika_1	180520	10		63	33	Zika	1st	4	"Body Pain, Rash, Headache, Fever, Pain Behind Eye, Vomitting"	0	0	1	1	1	1	1	1	Male	36	Indo	ZTS0331	19	P2:B3	Serum	17/2/17	24/2/17	2	100	470	11/11/2016	4
+81	180704_01_sample_QC12	180704	1		QC_run_12 (15)																											
+82	180704_02_sample_93_patient_56_Dengue_2	180704	2		93	56	Dengue	2nd	4	"IgM, IgG"	1	1	0	0	0	0	0	0	Female		Indo	ZTS0562	38	P2:D9	Serum	17/2/17	24/2/17	2	100	400	12/13/2016	8
+83	180704_03_sample_96_patient_68_Dengue_2	180704	3		96	68	Dengue	2nd											Female	36	Afro	ZTS0682	62	P2:D12	Serum	8/9/2017	17/8/17	1	200	216	4/11/2017	
+84	180704_04_sample_97_patient_82_Dengue_2	180704	4		97	82	Dengue	2nd	6	"Body Pain, Rash, Fever, IgM, IgG"	1	1	1	1	0	1	0	0	Male		Afro	ZTS0822	86	P3:A1	Serum		16/11/17	2	100	246	6/6/2017	11
+85	180704_05_sample_98_patient_80_Dengue_1	180704	5		98	80	Dengue	1st	4	"Body Pain, Fever, IgG"	0	1	1	0	0	1	0	0	Male	30	Afro	ZTS0801	83	P3:A2	Serum		16/11/17	2	100	250	5/25/2017	4
+86	180704_06_sample_99_patient_83_Dengue_2	180704	6		99	83	Dengue	2nd	5	"Body Pain, Rash, Fever, IgM"	1	0	1	1	0	1	0	0	Male	30	Indo	ZTS0831	88	P3:A3	Serum		16/11/17	2	100	208	6/16/2017	9
+87	180704_07_sample_100_patient_94_Dengue_1	180704	7		100	94	Dengue	1st	6	"Body Pain, Rash, Fever, IgM, IgG"	1	1	1	1	0	1	0	0	Male	42	Indo	ZTS0941	109	P3:A4	Serum		16/11/17	2	100	151	7/12/2017	6
+88	180704_08_sample_101_patient_74_Zika_1	180704	8		101	74	Zika	1st		"Body Pain, Rash, Fever, Vomitting"	0	0	1	1	0	1	0	1	Male	41	Afro	ZTS0741	73	P3:A5	Serum	8/9/2017	17/8/17	1	200	434	4/24/2017	
+89	180704_09_sample_102_patient_87_Dengue_2	180704	9		102	87	Dengue	2nd	5	"Body Pain, Rash, Fever"	0	0	1	1	0	1	0	0	Male	33	Indo	ZTS0872	96	P3:A6	Serum		16/11/17	2	100	110	7/7/2017	11
+90	180704_10_sample_104_patient_97_Dengue_1	180704	10		104	97	Dengue	1st	5	"Body Pain, Rash, Fever"	0	0	1	1	0	1	0	0	Male		Afro	ZTS0971	115	P3:A8	Serum		16/11/17	2	100	348	7/19/2017	5
+91	180710_01_sample_QC13	180710	1		QC_run_13 (16)																											
+92	180710_02_sample_105_patient_25_Zika_1	180710	2		105	25	Zika	1st	3	"Body Pain, Rash, Headache, Fever, Pain Behind Eye, Vomitting"	0	0	1	1	1	1	1	1	Female		Indo	ZTS0251	3	P3:A9	Serum	17/2/17	24/2/17	2	100	464	8/21/2016	3
+93	180710_03_sample_106_patient_101_Dengue_1	180710	3		106	101	Dengue	1st	5	"Body Pain, Rash, Fever, IgM, IgG"	1	1	1	1	0	1	0	0	Male		Afro	ZTS1011	123	P3:A10	Serum		16/11/17	2	100	340	7/24/2017	5
+94	180710_04_sample_107_patient_100_Dengue_2	180710	4		107	100	Dengue	2nd	6	"Body Pain, Rash, Fever, IgM, IgG"	1	1	1	1	0	1	0	0	Female		Indo	ZTS1002	122	P3:A11	Serum		16/11/17	2	100	240	7/27/2017	10
+95	180710_05_sample_108_patient_95_Dengue_1	180710	5		108	95	Dengue	1st	5	"Body Pain, Rash, Fever, IgM, IgG"	1	1	1	1	0	1	0	0	Female	28	Indo	ZTS0951	111	P3:A12	Serum		16/11/17	2	100	404	7/19/2017	5
+96	180710_06_sample_109_patient_89_Dengue_2	180710	6		109	89	Dengue	2nd	6	"Body Pain, Rash, Fever"	0	0	1	1	0	1	0	0	Female		Indo	ZTS0892	100	P3:B1	Serum		16/11/17	2	100	327	7/12/2017	12
+97	180710_07_sample_111_patient_69_Dengue_1	180710	7		111	69	Dengue	1st											Female	32	Indo	ZTS0691	63	P3:B3	Serum	8/9/2017	17/8/17	1	200	541	4/6/2017	
+98	180710_08_sample_112_patient_101_Dengue_2	180710	8		112	101	Dengue	2nd	5	"Body Pain, Rash, Fever, IgM, IgG"	1	1	1	1	0	1	0	0	Male		Afro	ZTS1012	124	P3:B4	Serum		16/11/17	2	100	183	7/28/2017	9
+99	180710_09_sample_114_patient_60_Dengue_2	180710	9		114	60	Dengue	2nd											Female	26	Afro	ZTS0602	46	P3:B6	Serum	8/9/2017	17/8/17	1	200	244	3/14/2017	
+100	180710_10_sample_115_patient_83_Dengue_1	180710	10		115	83	Dengue	1st	5	"Body Pain, Rash, Fever, IgM"	1	0	1	1	0	1	0	0	Male	30	Indo	ZTS0831	87	P3:B7	Serum		16/11/17	2	100	237	6/12/2017	5
+101	180712_01_sample_QC14	180712	1		QC_run_14 (17)																											
+102	180712_02_sample_118_patient_65_Zika_2	180712	2		118	65	Zika	2nd											Female	26	Afro	ZTS0652	56	P3:B10	Serum	8/9/2017	17/8/17	1	200	204	3/28/2017	
+103	180712_03_sample_119_patient_25_Zika_2	180712	3		119	25	Zika	2nd	3	"Body Pain, Rash, Headache, Fever, Pain Behind Eye, Vomitting"	0	0	1	1	1	1	1	1	Female		Indo	ZTS0252	4	P3:B11	Serum	17/2/17	24/2/17	2	100	168	8/28/2016	10
+104	180712_04_sample_120_patient_66_Zika_1	180712	4		120	66	Zika	1st											Female	33	Afro	ZTS0661	57	P3:B12	Serum	8/9/2017	17/8/17	1	200	327	3/17/2017	
+105	180712_05_sample_121_patient_91_Dengue_2	180712	5		121	91	Dengue	2nd	5	"Body Pain, Rash, Fever"	0	0	1	1	0	1	0	0	Male		Indo	ZTS0912	104	P3:C1	Serum		16/11/17	2	100	42	7/14/2017	10
+106	180712_06_sample_122_patient_86_Dengue_2	180712	6		122	86	Dengue	2nd	5	"Body Pain, Rash, Fever"	0	0	1	1	0	1	0	0	Female	30	Indo	ZTS0862	94	P3:C2	Serum		16/11/17	2	100	36	6/30/2017	8
+107	180712_07_sample_123_patient_63_Zika_2	180712	7		123	63	Zika	2nd											Male	25	Afro	ZTS0632	52	P3:C3	Serum	8/9/2017	17/8/17	1	200	68	3/18/2017	
+108	180712_08_sample_124_patient_68_Dengue_1	180712	8		124	68	Dengue	1st											Female	36	Afro	ZTS0681	61	P3:C4	Serum	8/9/2017	17/8/17	1	200	186	4/4/2017	
+109	180716_01_sample_QC15	180716	1		QC_run_15 (18)																											
+110	180716_02_sample_84_patient_95_Dengue_2	180716	2		84	95	Dengue	2nd	5	"Body Pain, Rash, Fever, IgM, IgG"	1	1	1	1	0	1	0	0	Female	28	Indo	ZTS0952	112	P2:C12	Serum		16/11/17	2	100	398	7/24/2017	10
+111	180716_03_sample_85_patient_73_Zika_2	180716	3		85	73	Zika	2nd		"Body Pain, Rash, Fever"	0	0	1	1	0	1	0	0	Female	26	Afro	ZTS0732	72	P2:D1	Serum	8/9/2017	17/8/17	1	200	324	4/28/2017	
+112	180716_04_sample_86_patient_67_Zika_1	180716	4		86	67	Zika	1st											Male	26	Afro	ZTS0671	59	P2:D2	Serum	8/9/2017	17/8/17	1	200	494	3/17/2017	
+113	180716_05_sample_87_patient_66_Zika_2	180716	5		87	66	Zika	2nd											Female	33	Afro	ZTS0662	58	P2:D3	Serum	8/9/2017	17/8/17	1	200	72	3/24/2017	
+114	180716_06_sample_88_patient_32_Zika_1	180716	6		88	32	Zika	1st	3	"Body Pain, Rash, Headache, Fever, Pain Behind Eye, Vomitting"	0	0	1	1	1	1	1	1	Female	30	Afro	ZTS0321	17	P2:D4	Serum	17/2/17	24/2/17	2	100	158	11/12/2016	3
+115	180716_07_sample_89_patient_90_Dengue_1	180716	7		89	90	Dengue	1st	6	"Body Pain, Rash, Fever"	0	0	1	1	0	1	0	0	Female		Afro	ZTS0901	101	P2:D5	Serum		16/11/17	2	100	406	7/7/2017	6
+116	180716_08_sample_90_patient_61_Zika_1	180716	8		90	61	Zika	1st											Female	29	Afro	ZTS0611	47	P2:D6	Serum	8/9/2017	17/8/17	1	200	422	3/3/2017	
+117	180716_09_sample_91_patient_90_Dengue_2	180716	9		91	90	Dengue	2nd	6	"Body Pain, Rash, Fever"	0	0	1	1	0	1	0	0	Female		Afro	ZTS0902	102	P2:D7	Serum		16/11/17	2	100	450	7/13/2017	12
+118	180716_10_sample_92_patient_78_Dengue_1	180716	10		92	78	Dengue	1st		IgG	0	1	0	0	0	0	0	0	Male	36	Indo	ZTS0781	79	P2:D8	Serum	8/9/2017	17/8/17	1	200	70	5/8/2017	
+119	180718_01_sample_QC16	180718	1		QC_run_16 (19)																											
+120	180718_02_sample_40_patient_69_Dengue_2	180718	2		40	69	Dengue	2nd											Female	32	Indo	ZTS0692	64	P1:D4	Serum	8/9/2017	17/8/17	1	200	578	4/13/2017	
+121	180718_03_sample_45_patient_32_Zika_2	180718	3		45	32	Zika	2nd	3	"Body Pain, Rash, Headache, Fever, Pain Behind Eye, Vomitting"	0	0	1	1	1	1	1	1	Female	30	Afro	ZTS0322	18	P1:D9	Serum	17/2/17	24/2/17	2	100	754	11/17/2016	8
+122	180718_04_sample_49_patient_72_Zika_1	180718	4		49	72	Zika	1st		"Body Pain, Rash, Fever"	0	0	1	1	0	1	0	0	Male	51	Afro	ZTS0721	69	P2:A1	Serum	8/9/2017	17/8/17	1	200	524	4/24/2017	
+123	180718_05_sample_74_patient_30_Zika_2	180718	5		74	30	Zika	2nd	4	"Body Pain, Rash, Headache, Fever, Pain Behind Eye, Vomitting"	0	0	1	1	1	1	1	1	Female	44	Indo	ZTS0302	14	P2:C2	Serum	17/2/17	24/2/17	2	100	548	9/23/2016	9
+124	180718_06_sample_75_patient_92_Dengue_2	180718	6		75	92	Dengue	2nd	5	"Body Pain, Rash, Fever, IgM, IgG"	1	1	1	1	0	1	0	0	Female	33	Indo	ZTS0922	106	P2:C3	Serum		16/11/17	2	100	234	7/14/2017	10
+125	180718_07_sample_76_patient_55_Dengue_1	180718	7		76	55	Dengue	1st	4	"IgM, IgG"	1	1	0	0	0	0	0	0	Male		Afro	ZTS0551	35	P2:C4	Serum	17/2/17	24/2/17	2	100	432	12/2/2016	4
+126	180718_08_sample_77_patient_71_Dengue_2	180718	8		77	71	Dengue	2nd											Female	45	Indo	ZTS0712	68	P2:C5	Serum	8/9/2017	17/8/17	1	200	680	4/16/2017	
+127	180718_09_sample_78_patient_99_Dengue_1	180718	9		78	99	Dengue	1st	7	"Body Pain, Rash, Fever, IgM, IgG"	1	1	1	1	0	1	0	0	Male		Indo	ZTS0991	119	P2:C6	Serum		16/11/17	2	100	240	7/18/2017	7
+128	180718_10_sample_79_patient_51_Zika_1	180718	10		79	51	Zika	1st	4	"Body Pain, Rash, Headache, Fever, Pain Behind Eye"	0	0	1	1	1	1	1	0	Male	33	Afro	ZTS0511	27	P2:C7	Serum	17/2/17	24/2/17	2	100	440	11/24/2016	4
+129	180718_11_sample_81_patient_89_Dengue_1	180718	11		81	89	Dengue	1st	6	"Body Pain, Rash, Fever"	0	0	1	1	0	1	0	0	Female		Indo	ZTS0891	99	P2:C9	Serum		16/11/17	2	100	460	7/6/2017	6
+130	180718_12_sample_82_patient_96_Dengue_2	180718	12		82	96	Dengue	2nd	5	"Body Pain, Rash, Fever, IgM, IgG"	1	1	1	1	0	1	0	0	Female	35	Indo	ZTS0962	114	P2:C10	Serum		16/11/17	2	100	400	7/24/2017	10
+131	180718_13_sample_83_patient_58_Dengue_1	180718	13		83	58	Dengue	1st											Female	25	Indo	ZTS0581	41	P2:C11	Serum	8/9/2017	17/8/17	1	200	130	3/5/2017	
+132	180719_14_sample_64_patient_18_Zika_2	180719	14		64	18	Zika	2nd	5										Female	28	Indo	ZTS0182	2	P2:B4	Serum	17/2/17	24/2/17	2	100	624	8/21/2016	12
+133	180719_15_sample_65_patient_98_Dengue_1	180719	15		65	98	Dengue	1st	5	"Body Pain, Rash, Fever"	0	0	1	1	0	1	0	0	Female		Indo	ZTS0981	117	P2:B5	Serum		16/11/17	2	100	308	7/19/2017	5
+134	180723_01_sample_QC17	180723	1		QC_run_17 (20)																											
+135	180723_02_sample_66_patient_63_Zika_1	180723	2		66	63	Zika	1st											Male	25	Afro	ZTS0631	51	P2:B6	Serum	8/9/2017	17/8/17	1	200	512	3/13/2017	
+136	180723_03_sample_67_patient_56_Dengue_1	180723	3		67	56	Dengue	1st	4	"IgM, IgG"	1	1	0	0	0	0	0	0	Male		Indo	ZTS0561	37	P2:B7	Serum	17/2/17	24/2/17	2	100	542	12/9/2016	4
+137	180723_04_sample_68_patient_55_Dengue_2	180723	4		68	55	Dengue	2nd	4	"IgM, IgG"	1	1	0	0	0	0	0	0	Male		Afro	ZTS0552	36	P2:B8	Serum	17/2/17	24/2/17	2	100	378	12/7/2016	9
+138	180724_01_sample_QC18	180724	1		QC_run_18 (21)																											
+139	180724_02_sample_69_patient_65_Zika_1	180724	2		69	65	Zika	1st											Female	26	Afro	ZTS0651	55	P2:B9	Serum	8/9/2017	17/8/17	1	200	292	3/21/2017	
+140	180724_03_sample_70_patient_85_Dengue_1	180724	3		70	85	Dengue	1st	5	"Body Pain, Rash, Fever, IgM, IgG"	1	1	1	1	0	1	0	0	Male	35	Afro	ZTS0851	91	P2:B10	Serum		16/11/17	2	100	304	6/26/2017	5
+141	180724_04_sample_71_patient_33_Zika_2	180724	4		71	33	Zika	2nd	4	"Body Pain, Rash, Headache, Fever, Pain Behind Eye"	0	0	1	1	1	1	1	0	Male	36	Indo	ZTS0332	20	P2:B11	Serum	17/2/17	24/2/17	2	100	308	11/16/2016	9
+142	180724_05_sample_72_patient_78_Dengue_2	180724	5		72	78	Dengue	2nd		IgG	0	1	0	0	0	0	0	0	Male	36	Indo	ZTS0782	80	P2:B12	Serum	8/9/2017	17/8/17	1	200	116	5/10/2017	
+143	180724_06_sample_QC19	180724	6		QC_run_19 (22)																											
+144	180724_07_sample_QC20	180724	7		QC_run_20 (23)																											
