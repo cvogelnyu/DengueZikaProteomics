@@ -22,7 +22,7 @@
 # 1 Post_Processing
 ## Software: RStudio Version 1.2.1335, R 3.6.0
 ## Script: Script_Data_Post_Processing.R
-## Input files: Zika_Dengue_reduced.txt; ConditionSetup.txt; sample_meta_data.txt
+## Input files: merged_table_input.txt (Zika_Dengue_reduced.txt); ConditionSetup.txt; sample_meta_data.txt
 ## Settings: 0.6 non-missing values, lowess f=0.25
 ## Expected results: number of proteins: 303, number of peptides: 3329, number of fragments: 12887
 ## Output files: meta_data.txt; quant_data.txt; quantQC_data.txt
