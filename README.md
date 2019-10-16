@@ -19,7 +19,7 @@
 
 ########################
 
-#1 Post_Processing
+# 1 Post_Processing
 ## Software: RStudio Version 1.2.1335, R 3.6.0
 ## Script: Script_Data_Post_Processing.R
 ## Input files: Zika_Dengue_reduced.txt; ConditionSetup.txt; sample_meta_data.txt
@@ -27,25 +27,25 @@
 ## Expected results: number of proteins: 303, number of peptides: 3329, number of fragments: 12887
 ## Output files: meta_data.txt; quant_data.txt; quantQC_data.txt
 
-#2 mapDIA
+# 2 mapDIA
 ## Software: mapDIA Version 3.1.0
 ## Input files: quant_data.txt; input.txt
 ## Output file: protein_level_data_mapDIA.txt (among others)
 
-#3 PCA 
+# 3 PCA 
 ## Software: RStudio Version 1.2.1335, R 3.6.0
 ## Script: Script_PCA.R
 ## Input files: protein_level_data_mapDIA.txt; sample_meta_data.txt
 ## Output file: PrincipalComponent_Protein_Level_ClinicalVar.txt; meta_data_with_PC.txt
 
-#4 Multiple_Linear_Regression
+# 4 Multiple_Linear_Regression
 ## Software: RStudio Version 1.2.1335, R 3.6.0
 ## Script: Multiple_Linear_Regression_Script.R
 ## Input files: protein_level_data_mapDIA.txt; meta_data_with_PC.txt
 ## Expected results: 26 significant proteins for pval_Zika <= 0.01; 71 significant proteins for pval_Zika <= 0.05
 ## Output file: pvalue_matrix.txt
 
-#5 WEKA_Machine_Learning
+# 5 WEKA_Machine_Learning
 ## Software: WEKA 3.8
 ## Input file: Original_data_all_patients_sig_proteins_0_01_diagnosis.arff (26 significant proteins from step 4)
 ## class value: diagnosis (Zika/Dengue)
