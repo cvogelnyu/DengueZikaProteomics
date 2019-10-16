@@ -1,0 +1,36 @@
+##input file
+FILE= quant_data.txt
+#LEVEL=1
+
+### MODULE data through MRF model
+#MODULE =Glyco_edgelist
+#MODULE_TYPE = Edge_list    #remove line if not using MODULE
+#MRF_TYPE = -1_1    #remove line if not using MODULE
+
+### Experimental design
+EXPERIMENTAL_DESIGN= independentdesign
+
+#### Normalization
+#NORMALIZATION= rt 10 
+
+### Filter
+SDF= 2
+MIN_CORREL= 0.2
+MIN_OBS= 20 20
+MIN_PEP_PER_PROT = 1
+MAX_PEP_PER_PROT = 10
+
+MIN_FRAG_PER_PEP = 3
+
+### Sample information
+LABELS=Dengue Zika
+SIZE=68 54
+
+### min. max. DE
+MIN_DE= .01
+MAX_DE =.99 
+
+### Contrast matrix for group comparison
+CONTRAST=
+- 0
+1 -
