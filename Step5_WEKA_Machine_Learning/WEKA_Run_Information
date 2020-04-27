@@ -1,0 +1,94 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.functions.Logistic -R 1.0E-8 -M -1 -num-decimal-places 4
+Relation:     Protein_data_mapDIA_norm_Trainingsset-weka.filters.unsupervised.attribute.Remove-R1-170,172-189,191-232,234-301
+Instances:    82
+Attributes:   4
+              P02671
+              P02775
+              P10720
+              Diagnosis
+Test mode:    evaluate on training data
+
+=== Classifier model (full training set) ===
+
+Logistic Regression with ridge parameter of 1.0E-8
+Coefficients...
+               Class
+Variable      Dengue
+====================
+P02671        0.9687
+P02775        0.1458
+P10720       -0.5326
+Intercept     0.5112
+
+
+Odds Ratios...
+               Class
+Variable      Dengue
+====================
+P02671        2.6345
+P02775         1.157
+P10720        0.5871
+
+
+Time taken to build model: 0.03 seconds
+
+=== Evaluation on training set ===
+
+Time taken to test model on training data: 0.01 seconds
+
+=== Summary ===
+
+Correctly Classified Instances          62               75.6098 %
+Incorrectly Classified Instances        20               24.3902 %
+Kappa statistic                          0.5003
+Mean absolute error                      0.3798
+Root mean squared error                  0.4343
+Relative absolute error                 76.6678 %
+Root relative squared error             87.2703 %
+Total Number of Instances               82     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.844    0.351    0.745      0.844    0.792      0.506    0.786     0.807     Dengue
+                 0.649    0.156    0.774      0.649    0.706      0.506    0.786     0.762     Zika
+Weighted Avg.    0.756    0.263    0.758      0.756    0.753      0.506    0.786     0.787     
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 38  7 |  a = Dengue
+ 13 24 |  b = Zika
+
+
+=== Re-evaluation on test set ===
+
+User supplied test set
+Relation:     Protein_data_mapDIA_norm_Testset
+Instances:     unknown (yet). Reading incrementally
+Attributes:   302
+
+=== Summary ===
+
+Correctly Classified Instances          31               77.5    %
+Incorrectly Classified Instances         9               22.5    %
+Kappa statistic                          0.5361
+Mean absolute error                      0.3258
+Root mean squared error                  0.4174
+Total Number of Instances               40     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.826    0.294    0.792      0.826    0.809      0.537    0.811     0.890     Dengue
+                 0.706    0.174    0.750      0.706    0.727      0.537    0.811     0.704     Zika
+Weighted Avg.    0.775    0.243    0.774      0.775    0.774      0.537    0.811     0.811     
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 19  4 |  a = Dengue
+  5 12 |  b = Zika
+
