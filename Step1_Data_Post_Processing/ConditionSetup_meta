@@ -1,0 +1,145 @@
+#	Is Reference	Run Label	Condition	Fraction	Replicate	Quantity Correction Factor	Label	Color	File Name	File_Name_Short	PatientID	Diagnosed_Type	Sample_TimePoint
+1	TRUE	180330_01_sample_QC01.raw	QC	NA	1	1	QC	#EC1313	180330_01_sample_QC01	QC01			
+2	FALSE	180330_02_sample_39_patient_54_Dengue_2.raw	Dengue_2	NA	1	1	Dengue_2	#ECC813	180330_02_sample_39_patient_54_Dengue_2	p_054_D_2	54	Dengue	2nd
+3	FALSE	180330_03_sample_42_patient_26_Zika_2.raw	Zika_2	NA	1	1	Zika_2	#5BEC13	180330_03_sample_42_patient_26_Zika_2	p_026_Z_2	26	Zika	2nd
+4	FALSE	180330_04_sample_51_patient_52_Zika_1.raw	Zika_1	NA	1	1	Zika_1	#13EC80	180330_04_sample_51_patient_52_Zika_1	p_052_Z_1	52	Zika	1st
+5	FALSE	180330_05_sample_52_patient_27_Zika_2.raw	Zika_2	NA	2	1	Zika_2	#5BEC13	180330_05_sample_52_patient_27_Zika_2	p_027_Z_2	27	Zika	2nd
+6	FALSE	180330_06_sample_73_patient_31_Zika_2.raw	Zika_2	NA	3	1	Zika_2	#5BEC13	180330_06_sample_73_patient_31_Zika_2	p_031_Z_2	31	Zika	2nd
+7	FALSE	180330_07_sample_13_patient_53_Dengue_1.raw	Dengue_1	NA	1	1	Dengue_1	#13A4EC	180330_07_sample_13_patient_53_Dengue_1	p_053_D_1	53	Dengue	1st
+8	FALSE	180330_08_sample_03_patient_44_Dengue_1.raw	Dengue_1	NA	2	1	Dengue_1	#13A4EC	180330_08_sample_03_patient_44_Dengue_1	p_044_D_1	44	Dengue	1st
+9	FALSE	180330_09_sample_43_patient_54_Dengue_1.raw	Dengue_1	NA	3	1	Dengue_1	#13A4EC	180330_09_sample_43_patient_54_Dengue_1	p_054_D_1	54	Dengue	1st
+10	FALSE	180330_10_sample_57_patient_57_Dengue_2.raw	Dengue_2	NA	2	1	Dengue_2	#ECC813	180330_10_sample_57_patient_57_Dengue_2	p_057_D_2	57	Dengue	2nd
+11	TRUE	180403_01_sample_QC02.raw	QC	NA	2	1	QC	#EC1313	180403_01_sample_QC02	QC02			
+12	FALSE	180403_02_sample_95_patient_31_Zika_1.raw	Zika_1	NA	2	1	Zika_1	#13EC80	180403_02_sample_95_patient_31_Zika_1	p_031_Z_1	31	Zika	1st
+13	FALSE	180403_03_sample_117_patient_26_Zika_1.raw	Zika_1	NA	3	1	Zika_1	#13EC80	180403_03_sample_117_patient_26_Zika_1	p_026_Z_1	26	Zika	1st
+14	FALSE	180403_04_sample_80_patient_48_Dengue_2.raw	Dengue_2	NA	3	1	Dengue_2	#ECC813	180403_04_sample_80_patient_48_Dengue_2	p_048_D_2	48	Dengue	2nd
+15	FALSE	180403_05_sample_09_patient_52_Zika_2.raw	Zika_2	NA	4	1	Zika_2	#5BEC13	180403_05_sample_09_patient_52_Zika_2	p_052_Z_2	52	Zika	2nd
+16	TRUE	180421_01_sample_QC03.raw	QC	NA	3	1	QC	#EC1313	180421_01_sample_QC03	QC03			
+17	FALSE	180421_02_sample_94_patient_57_Dengue_1.raw	Dengue_1	NA	4	1	Dengue_1	#13A4EC	180421_02_sample_94_patient_57_Dengue_1	p_057_D_1	57	Dengue	1st
+18	FALSE	180421_03_sample_113_patient_44_Dengue_2.raw	Dengue_2	NA	4	1	Dengue_2	#ECC813	180421_03_sample_113_patient_44_Dengue_2	p_044_D_2	44	Dengue	2nd
+19	FALSE	180421_04_sample_01_patient_51_Zika_2.raw	Zika_2	NA	5	1	Zika_2	#5BEC13	180421_04_sample_01_patient_51_Zika_2	p_051_Z_2	51	Zika	2nd
+20	FALSE	180421_05_sample_02_patient_86_Dengue_1.raw	Dengue_1	NA	5	1	Dengue_1	#13A4EC	180421_05_sample_02_patient_86_Dengue_1	p_086_D_1	86	Dengue	1st
+21	FALSE	180421_06_sample_04_patient_88_Dengue_1.raw	Dengue_1	NA	6	1	Dengue_1	#13A4EC	180421_06_sample_04_patient_88_Dengue_1	p_088_D_1	88	Dengue	1st
+22	FALSE	180421_07_sample_05_patient_71_Dengue_1.raw	Dengue_1	NA	7	1	Dengue_1	#13A4EC	180421_07_sample_05_patient_71_Dengue_1	p_071_D_1	71	Dengue	1st
+23	FALSE	180421_08_sample_06_patient_18_Zika_1.raw	Zika_1	NA	4	1	Zika_1	#13EC80	180421_08_sample_06_patient_18_Zika_1	p_018_Z_1	18	Zika	1st
+24	FALSE	180421_09_sample_07_patient_30_Zika_1.raw	Zika_1	NA	5	1	Zika_1	#13EC80	180421_09_sample_07_patient_30_Zika_1	p_030_Z_1	30	Zika	1st
+25	FALSE	180421_10_sample_08_patient_99_Dengue_2.raw	Dengue_2	NA	5	1	Dengue_2	#ECC813	180421_10_sample_08_patient_99_Dengue_2	p_099_D_2	99	Dengue	2nd
+26	TRUE	180423_01_sample_QC04.raw	QC	NA	4	1	QC	#EC1313	180423_01_sample_QC04	QC04			
+27	FALSE	180423_02_sample_110_patient_70_Zika_2.raw	Zika_2	NA	6	1	Zika_2	#5BEC13	180423_02_sample_110_patient_70_Zika_2	p_070_Z_2	70	Zika	2nd
+28	FALSE	180423_03_sample_103_patient_27_Zika_1.raw	Zika_1	NA	6	1	Zika_1	#13EC80	180423_03_sample_103_patient_27_Zika_1	p_027_Z_1	27	Zika	1st
+29	FALSE	180423_04_sample_116_patient_53_Dengue_2.raw	Dengue_2	NA	6	1	Dengue_2	#ECC813	180423_04_sample_116_patient_53_Dengue_2	p_053_D_2	53	Dengue	2nd
+30	FALSE	180423_05_sample_31_patient_70_Zika_1.raw	Zika_1	NA	7	1	Zika_1	#13EC80	180423_05_sample_31_patient_70_Zika_1	p_070_Z_1	70	Zika	1st
+31	FALSE	180423_06_sample_47_patient_48_Dengue_1.raw	Dengue_1	NA	8	1	Dengue_1	#13A4EC	180423_06_sample_47_patient_48_Dengue_1	p_048_D_1	48	Dengue	1st
+32	TRUE	180424_01_sample_QC05.raw	QC	NA	5	1	QC	#EC1313	180424_01_sample_QC05	QC05			
+33	FALSE	180424_02_sample_10_patient_58_Dengue_2.raw	Dengue_2	NA	7	1	Dengue_2	#ECC813	180424_02_sample_10_patient_58_Dengue_2	p_058_D_2	58	Dengue	2nd
+34	FALSE	180424_03_sample_11_patient_60_Dengue_1.raw	Dengue_1	NA	9	1	Dengue_1	#13A4EC	180424_03_sample_11_patient_60_Dengue_1	p_060_D_1	60	Dengue	1st
+35	FALSE	180424_04_sample_12_patient_84_Dengue_2.raw	Dengue_2	NA	8	1	Dengue_2	#ECC813	180424_04_sample_12_patient_84_Dengue_2	p_084_D_2	84	Dengue	2nd
+36	FALSE	180424_05_sample_14_patient_79_Dengue_2.raw	Dengue_2	NA	9	1	Dengue_2	#ECC813	180424_05_sample_14_patient_79_Dengue_2	p_079_D_2	79	Dengue	2nd
+37	FALSE	180424_06_sample_15_patient_28_Zika_2.raw	Zika_2	NA	7	1	Zika_2	#5BEC13	180424_06_sample_15_patient_28_Zika_2	p_028_Z_2	28	Zika	2nd
+38	TRUE	180426_01_sample_QC06.raw	QC	NA	6	1	QC	#EC1313	180426_01_sample_QC06	QC06			
+39	FALSE	180426_02_sample_16_patient_29_Zika_1.raw	Zika_1	NA	8	1	Zika_1	#13EC80	180426_02_sample_16_patient_29_Zika_1	p_029_Z_1	29	Zika	1st
+40	FALSE	180426_03_sample_17_patient_28_Zika_1.raw	Zika_1	NA	9	1	Zika_1	#13EC80	180426_03_sample_17_patient_28_Zika_1	p_028_Z_1	28	Zika	1st
+41	FALSE	180426_04_sample_18_patient_94_Dengue_2.raw	Dengue_2	NA	10	1	Dengue_2	#ECC813	180426_04_sample_18_patient_94_Dengue_2	p_094_D_2	94	Dengue	2nd
+42	FALSE	180426_05_sample_19_patient_91_Dengue_1.raw	Dengue_1	NA	10	1	Dengue_1	#13A4EC	180426_05_sample_19_patient_91_Dengue_1	p_091_D_1	91	Dengue	1st
+43	TRUE	180508_01_sample_QC07.raw	QC	NA	7	1	QC	#EC1313	180508_01_sample_QC07	QC07			
+44	FALSE	180508_02_sample_20_patient_64_Zika_2.raw	Zika_2	NA	8	1	Zika_2	#5BEC13	180508_02_sample_20_patient_64_Zika_2	p_064_Z_2	64	Zika	2nd
+45	FALSE	180508_03_sample_21_patient_88_Dengue_2.raw	Dengue_2	NA	11	1	Dengue_2	#ECC813	180508_03_sample_21_patient_88_Dengue_2	p_088_D_2	88	Dengue	2nd
+46	FALSE	180508_04_sample_22_patient_59_Zika_2.raw	Zika_2	NA	9	1	Zika_2	#5BEC13	180508_04_sample_22_patient_59_Zika_2	p_059_Z_2	59	Zika	2nd
+47	FALSE	180508_05_sample_23_patient_75_Zika_2.raw	Zika_2	NA	10	1	Zika_2	#5BEC13	180508_05_sample_23_patient_75_Zika_2	p_075_Z_2	75	Zika	2nd
+48	FALSE	180508_06_sample_24_patient_67_Zika_2.raw	Zika_2	NA	11	1	Zika_2	#5BEC13	180508_06_sample_24_patient_67_Zika_2	p_067_Z_2	67	Zika	2nd
+49	FALSE	180508_07_sample_25_patient_93_Dengue_1.raw	Dengue_1	NA	11	1	Dengue_1	#13A4EC	180508_07_sample_25_patient_93_Dengue_1	p_093_D_1	93	Dengue	1st
+50	FALSE	180508_08_sample_26_patient_85_Dengue_2.raw	Dengue_2	NA	12	1	Dengue_2	#ECC813	180508_08_sample_26_patient_85_Dengue_2	p_085_D_2	85	Dengue	2nd
+51	FALSE	180508_09_sample_27_patient_98_Dengue_2.raw	Dengue_2	NA	13	1	Dengue_2	#ECC813	180508_09_sample_27_patient_98_Dengue_2	p_098_D_2	98	Dengue	2nd
+52	FALSE	180508_10_sample_28_patient_29_Zika_2.raw	Zika_2	NA	12	1	Zika_2	#5BEC13	180508_10_sample_28_patient_29_Zika_2	p_029_Z_2	29	Zika	2nd
+53	TRUE	180511_01_sample_QC08.raw	QC	NA	8	1	QC	#EC1313	180511_01_sample_QC08	QC08			
+54	FALSE	180511_02_sample_29_patient_76_Zika_1.raw	Zika_1	NA	10	1	Zika_1	#13EC80	180511_02_sample_29_patient_76_Zika_1	p_076_Z_1	76	Zika	1st
+55	FALSE	180511_03_sample_30_patient_50_Zika_1.raw	Zika_1	NA	11	1	Zika_1	#13EC80	180511_03_sample_30_patient_50_Zika_1	p_050_Z_1	50	Zika	1st
+56	TRUE	180515_01_sample_QC09.raw	QC	NA	9	1	QC	#EC1313	180515_01_sample_QC09	QC09			
+57	FALSE	180515_02_sample_33_patient_76_Zika_2.raw	Zika_2	NA	13	1	Zika_2	#5BEC13	180515_02_sample_33_patient_76_Zika_2	p_076_Z_2	76	Zika	2nd
+58	FALSE	180515_03_sample_34_patient_97_Dengue_2.raw	Dengue_2	NA	14	1	Dengue_2	#ECC813	180515_03_sample_34_patient_97_Dengue_2	p_097_D_2	97	Dengue	2nd
+59	FALSE	180515_04_sample_35_patient_81_Dengue_2.raw	Dengue_2	NA	15	1	Dengue_2	#ECC813	180515_04_sample_35_patient_81_Dengue_2	p_081_D_2	81	Dengue	2nd
+60	FALSE	180515_05_sample_36_patient_79_Dengue_1.raw	Dengue_1	NA	12	1	Dengue_1	#13A4EC	180515_05_sample_36_patient_79_Dengue_1	p_079_D_1	79	Dengue	1st
+61	FALSE	180515_06_sample_37_patient_87_Dengue_1.raw	Dengue_1	NA	13	1	Dengue_1	#13A4EC	180515_06_sample_37_patient_87_Dengue_1	p_087_D_1	87	Dengue	1st
+62	FALSE	180515_07_sample_38_patient_75_Zika_1.raw	Zika_1	NA	12	1	Zika_1	#13EC80	180515_07_sample_38_patient_75_Zika_1	p_075_Z_1	75	Zika	1st
+63	FALSE	180515_08_sample_32_patient_82_Dengue_1.raw	Dengue_1	NA	14	1	Dengue_1	#13A4EC	180515_08_sample_32_patient_82_Dengue_1	p_082_D_1	82	Dengue	1st
+64	TRUE	180517_01_sample_QC10.raw	QC	NA	10	1	QC	#EC1313	180517_01_sample_QC10	QC10			
+65	FALSE	180517_03_sample_41_patient_74_Zika_2.raw	Zika_2	NA	14	1	Zika_2	#5BEC13	180517_03_sample_41_patient_74_Zika_2	p_074_Z_2	74	Zika	2nd
+66	FALSE	180517_04_sample_44_patient_92_Dengue_1.raw	Dengue_1	NA	15	1	Dengue_1	#13A4EC	180517_04_sample_44_patient_92_Dengue_1	p_092_D_1	92	Dengue	1st
+67	FALSE	180517_06_sample_46_patient_62_Zika_2.raw	Zika_2	NA	15	1	Zika_2	#5BEC13	180517_06_sample_46_patient_62_Zika_2	p_062_Z_2	62	Zika	2nd
+68	FALSE	180517_07_sample_48_patient_73_Zika_1.raw	Zika_1	NA	13	1	Zika_1	#13EC80	180517_07_sample_48_patient_73_Zika_1	p_073_Z_1	73	Zika	1st
+69	FALSE	180517_09_sample_50_patient_93_Dengue_2.raw	Dengue_2	NA	16	1	Dengue_2	#ECC813	180517_09_sample_50_patient_93_Dengue_2	p_093_D_2	93	Dengue	2nd
+70	FALSE	180517_10_sample_53_patient_59_Zika_1.raw	Zika_1	NA	14	1	Zika_1	#13EC80	180517_10_sample_53_patient_59_Zika_1	p_059_Z_1	59	Zika	1st
+71	TRUE	180520_01_sample_QC11.raw	QC	NA	11	1	QC	#EC1313	180520_01_sample_QC11	QC11			
+72	FALSE	180520_02_sample_54_patient_96_Dengue_1.raw	Dengue_1	NA	16	1	Dengue_1	#13A4EC	180520_02_sample_54_patient_96_Dengue_1	p_096_D_1	96	Dengue	1st
+73	FALSE	180520_03_sample_55_patient_84_Dengue_1.raw	Dengue_1	NA	17	1	Dengue_1	#13A4EC	180520_03_sample_55_patient_84_Dengue_1	p_084_D_1	84	Dengue	1st
+74	FALSE	180520_04_sample_56_patient_62_Zika_1.raw	Zika_1	NA	4	1	Zika_1	#CBEC13	180520_04_sample_56_patient_62_Zika_1	p_062_Z_1	62	Zika	1st
+75	FALSE	180520_05_sample_58_patient_61_Zika_2.raw	Zika_2	NA	16	1	Zika_2	#5BEC13	180520_05_sample_58_patient_61_Zika_2	p_061_Z_2	61	Zika	2nd
+76	FALSE	180520_06_sample_59_patient_72_Zika_2.raw	Zika_2	NA	17	1	Zika_2	#5BEC13	180520_06_sample_59_patient_72_Zika_2	p_072_Z_2	72	Zika	2nd
+77	FALSE	180520_07_sample_60_patient_64_Zika_1.raw	Zika_1	NA	15	1	Zika_1	#13EC80	180520_07_sample_60_patient_64_Zika_1	p_064_Z_1	64	Zika	1st
+78	FALSE	180520_08_sample_61_patient_50_Zika_2.raw	Zika_2	NA	18	1	Zika_2	#5BEC13	180520_08_sample_61_patient_50_Zika_2	p_050_Z_2	50	Zika	2nd
+79	FALSE	180520_09_sample_62_patient_100_Dengue_1.raw	Dengue_1	NA	18	1	Dengue_1	#13A4EC	180520_09_sample_62_patient_100_Dengue_1	p_100_D_1	100	Dengue	1st
+80	FALSE	180520_10_sample_63_patient_33_Zika_1.raw	Zika_1	NA	16	1	Zika_1	#13EC80	180520_10_sample_63_patient_33_Zika_1	p_033_Z_1	33	Zika	1st
+81	TRUE	180704_01_sample_QC12.raw	QC	NA	12	1	QC	#EC1313	180704_01_sample_QC12	QC12			
+82	FALSE	180704_02_sample_93_patient_56_Dengue_2.raw	Dengue_2	NA	17	1	Dengue_2	#ECC813	180704_02_sample_93_patient_56_Dengue_2	p_056_D_2	56	Dengue	2nd
+83	FALSE	180704_03_sample_96_patient_68_Dengue_2.raw	Dengue_2	NA	18	1	Dengue_2	#ECC813	180704_03_sample_96_patient_68_Dengue_2	p_068_D_2	68	Dengue	2nd
+84	FALSE	180704_04_sample_97_patient_82_Dengue_2.raw	Dengue_2	NA	19	1	Dengue_2	#ECC813	180704_04_sample_97_patient_82_Dengue_2	p_082_D_2	82	Dengue	2nd
+85	FALSE	180704_05_sample_98_patient_80_Dengue_1.raw	Dengue_1	NA	19	1	Dengue_1	#13A4EC	180704_05_sample_98_patient_80_Dengue_1	p_080_D_1	80	Dengue	1st
+86	FALSE	180704_06_sample_99_patient_83_Dengue_2.raw	Dengue_2	NA	20	1	Dengue_2	#ECC813	180704_06_sample_99_patient_83_Dengue_2	p_083_D_2	83	Dengue	2nd
+87	FALSE	180704_07_sample_100_patient_94_Dengue_1.raw	Dengue_1	NA	20	1	Dengue_1	#13A4EC	180704_07_sample_100_patient_94_Dengue_1	p_094_D_1	94	Dengue	1st
+88	FALSE	180704_08_sample_101_patient_74_Zika_1.raw	Zika_1	NA	17	1	Zika_1	#13EC80	180704_08_sample_101_patient_74_Zika_1	p_074_Z_1	74	Zika	1st
+89	FALSE	180704_09_sample_102_patient_87_Dengue_2.raw	Dengue_2	NA	21	1	Dengue_2	#ECC813	180704_09_sample_102_patient_87_Dengue_2	p_087_D_2	87	Dengue	2nd
+90	FALSE	180704_10_sample_104_patient_97_Dengue_1.raw	Dengue_1	NA	21	1	Dengue_1	#13A4EC	180704_10_sample_104_patient_97_Dengue_1	p_097_D_1	97	Dengue	1st
+91	TRUE	180710_01_sample_QC13.raw	QC	NA	13	1	QC	#EC1313	180710_01_sample_QC13	QC13			
+92	FALSE	180710_02_sample_105_patient_25_Zika_1.raw	Zika_1	NA	18	1	Zika_1	#13EC80	180710_02_sample_105_patient_25_Zika_1	p_025_Z_1	25	Zika	1st
+93	FALSE	180710_03_sample_106_patient_101_Dengue_1.raw	Dengue_1	NA	22	1	Dengue_1	#13A4EC	180710_03_sample_106_patient_101_Dengue_1	p_101_D_1	101	Dengue	1st
+94	FALSE	180710_04_sample_107_patient_100_Dengue_2.raw	Dengue_2	NA	22	1	Dengue_2	#ECC813	180710_04_sample_107_patient_100_Dengue_2	p_100_D_2	100	Dengue	2nd
+95	FALSE	180710_05_sample_108_patient_95_Dengue_1.raw	Dengue_1	NA	23	1	Dengue_1	#13A4EC	180710_05_sample_108_patient_95_Dengue_1	p_095_D_1	95	Dengue	1st
+96	FALSE	180710_06_sample_109_patient_89_Dengue_2.raw	Dengue_2	NA	23	1	Dengue_2	#ECC813	180710_06_sample_109_patient_89_Dengue_2	p_089_D_2	89	Dengue	2nd
+97	FALSE	180710_07_sample_111_patient_69_Dengue_1.raw	Dengue_1	NA	24	1	Dengue_1	#13A4EC	180710_07_sample_111_patient_69_Dengue_1	p_069_D_1	69	Dengue	1st
+98	FALSE	180710_08_sample_112_patient_101_Dengue_2.raw	Dengue_2	NA	24	1	Dengue_2	#ECC813	180710_08_sample_112_patient_101_Dengue_2	p_101_D_2	101	Dengue	2nd
+99	FALSE	180710_09_sample_114_patient_60_Dengue_2.raw	Dengue_2	NA	25	1	Dengue_2	#ECC813	180710_09_sample_114_patient_60_Dengue_2	p_060_D_2	60	Dengue	2nd
+100	FALSE	180710_10_sample_115_patient_83_Dengue_1.raw	Dengue_1	NA	25	1	Dengue_1	#13A4EC	180710_10_sample_115_patient_83_Dengue_1	p_083_D_1	83	Dengue	1st
+101	TRUE	180712_01_sample_QC14.raw	QC	NA	14	1	QC	#EC1313	180712_01_sample_QC14	QC14			
+102	FALSE	180712_02_sample_118_patient_65_Zika_2.raw	Zika_2	NA	19	1	Zika_2	#5BEC13	180712_02_sample_118_patient_65_Zika_2	p_065_Z_2	65	Zika	2nd
+103	FALSE	180712_03_sample_119_patient_25_Zika_2.raw	Zika_2	NA	20	1	Zika_2	#5BEC13	180712_03_sample_119_patient_25_Zika_2	p_025_Z_2	25	Zika	2nd
+104	FALSE	180712_04_sample_120_patient_66_Zika_1.raw	Zika_1	NA	19	1	Zika_1	#13EC80	180712_04_sample_120_patient_66_Zika_1	p_066_Z_1	66	Zika	1st
+105	FALSE	180712_05_sample_121_patient_91_Dengue_2.raw	Dengue_2	NA	26	1	Dengue_2	#ECC813	180712_05_sample_121_patient_91_Dengue_2	p_091_D_2	91	Dengue	2nd
+106	FALSE	180712_06_sample_122_patient_86_Dengue_2.raw	Dengue_2	NA	27	1	Dengue_2	#ECC813	180712_06_sample_122_patient_86_Dengue_2	p_086_D_2	86	Dengue	2nd
+107	FALSE	180712_07_sample_123_patient_63_Zika_2.raw	Zika_2	NA	21	1	Zika_2	#5BEC13	180712_07_sample_123_patient_63_Zika_2	p_063_Z_2	63	Zika	2nd
+108	FALSE	180712_08_sample_124_patient_68_Dengue_1.raw	Dengue_1	NA	26	1	Dengue_1	#13A4EC	180712_08_sample_124_patient_68_Dengue_1	p_068_D_1	68	Dengue	1st
+109	TRUE	180716_01_sample_QC15.raw	QC	NA	15	1	QC	#EC1313	180716_01_sample_QC15	QC15			
+110	FALSE	180716_02_sample_84_patient_95_Dengue_2.raw	Dengue_2	NA	28	1	Dengue_2	#ECC813	180716_02_sample_84_patient_95_Dengue_2	p_095_D_2	95	Dengue	2nd
+111	FALSE	180716_03_sample_85_patient_73_Zika_2.raw	Zika_2	NA	22	1	Zika_2	#5BEC13	180716_03_sample_85_patient_73_Zika_2	p_073_Z_2	73	Zika	2nd
+112	FALSE	180716_04_sample_86_patient_67_Zika_1.raw	Zika_1	NA	20	1	Zika_1	#13EC80	180716_04_sample_86_patient_67_Zika_1	p_067_Z_1	67	Zika	1st
+113	FALSE	180716_05_sample_87_patient_66_Zika_2.raw	Zika_2	NA	23	1	Zika_2	#5BEC13	180716_05_sample_87_patient_66_Zika_2	p_066_Z_2	66	Zika	2nd
+114	FALSE	180716_06_sample_88_patient_32_Zika_1.raw	Zika_1	NA	21	1	Zika_1	#13EC80	180716_06_sample_88_patient_32_Zika_1	p_032_Z_1	32	Zika	1st
+115	FALSE	180716_07_sample_89_patient_90_Dengue_1.raw	Dengue_1	NA	27	1	Dengue_1	#13A4EC	180716_07_sample_89_patient_90_Dengue_1	p_090_D_1	90	Dengue	1st
+116	FALSE	180716_08_sample_90_patient_61_Zika_1.raw	Zika_1	NA	22	1	Zika_1	#13EC80	180716_08_sample_90_patient_61_Zika_1	p_061_Z_1	61	Zika	1st
+117	FALSE	180716_09_sample_91_patient_90_Dengue_2.raw	Dengue_2	NA	29	1	Dengue_2	#ECC813	180716_09_sample_91_patient_90_Dengue_2	p_090_D_2	90	Dengue	2nd
+118	FALSE	180716_10_sample_92_patient_78_Dengue_1.raw	Dengue_1	NA	28	1	Dengue_1	#13A4EC	180716_10_sample_92_patient_78_Dengue_1	p_078_D_1	78	Dengue	1st
+119	TRUE	180718_01_sample_QC16.raw	QC	NA	16	1	QC	#EC1313	180718_01_sample_QC16	QC16			
+120	FALSE	180718_02_sample_40_patient_69_Dengue_2.raw	Dengue_2	NA	30	1	Dengue_2	#ECC813	180718_02_sample_40_patient_69_Dengue_2	p_069_D_2	69	Dengue	2nd
+121	FALSE	180718_03_sample_45_patient_32_Zika_2.raw	Zika_2	NA	24	1	Zika_2	#5BEC13	180718_03_sample_45_patient_32_Zika_2	p_032_Z_2	32	Zika	2nd
+122	FALSE	180718_04_sample_49_patient_72_Zika_1.raw	Zika_1	NA	23	1	Zika_1	#13EC80	180718_04_sample_49_patient_72_Zika_1	p_072_Z_1	72	Zika	1st
+123	FALSE	180718_05_sample_74_patient_30_Zika_2.raw	Zika_2	NA	25	1	Zika_2	#5BEC13	180718_05_sample_74_patient_30_Zika_2	p_030_Z_2	30	Zika	2nd
+124	FALSE	180718_06_sample_75_patient_92_Dengue_2.raw	Dengue_2	NA	31	1	Dengue_2	#ECC813	180718_06_sample_75_patient_92_Dengue_2	p_092_D_2	92	Dengue	2nd
+125	FALSE	180718_07_sample_76_patient_55_Dengue_1.raw	Dengue_1	NA	29	1	Dengue_1	#13A4EC	180718_07_sample_76_patient_55_Dengue_1	p_055_D_1	55	Dengue	1st
+126	FALSE	180718_08_sample_77_patient_71_Dengue_2.raw	Dengue_2	NA	32	1	Dengue_2	#ECC813	180718_08_sample_77_patient_71_Dengue_2	p_071_D_2	71	Dengue	2nd
+127	FALSE	180718_09_sample_78_patient_99_Dengue_1.raw	Dengue_1	NA	30	1	Dengue_1	#13A4EC	180718_09_sample_78_patient_99_Dengue_1	p_099_D_1	99	Dengue	1st
+128	FALSE	180718_10_sample_79_patient_51_Zika_1.raw	Zika_1	NA	24	1	Zika_1	#13EC80	180718_10_sample_79_patient_51_Zika_1	p_051_Z_1	51	Zika	1st
+129	FALSE	180718_11_sample_81_patient_89_Dengue_1.raw	Dengue_1	NA	31	1	Dengue_1	#13A4EC	180718_11_sample_81_patient_89_Dengue_1	p_089_D_1	89	Dengue	1st
+130	FALSE	180718_12_sample_82_patient_96_Dengue_2.raw	Dengue_2	NA	33	1	Dengue_2	#ECC813	180718_12_sample_82_patient_96_Dengue_2	p_096_D_2	96	Dengue	2nd
+131	FALSE	180718_13_sample_83_patient_58_Dengue_1.raw	Dengue_1	NA	32	1	Dengue_1	#13A4EC	180718_13_sample_83_patient_58_Dengue_1	p_058_D_1	58	Dengue	1st
+132	FALSE	180719_14_sample_64_patient_18_Zika_2.raw	Zika_2	NA	26	1	Zika_2	#5BEC13	180719_14_sample_64_patient_18_Zika_2	p_018_Z_2	18	Zika	2nd
+133	FALSE	180719_15_sample_65_patient_98_Dengue_1.raw	Dengue_1	NA	33	1	Dengue_1	#13A4EC	180719_15_sample_65_patient_98_Dengue_1	p_098_D_1	98	Dengue	1st
+134	TRUE	180723_01_sample_QC17.raw	QC	NA	17	1	QC	#EC1313	180723_01_sample_QC17	QC17			
+135	FALSE	180723_02_sample_66_patient_63_Zika_1.raw	Zika_1	NA	25	1	Zika_1	#13EC80	180723_02_sample_66_patient_63_Zika_1	p_063_Z_1	63	Zika	1st
+136	FALSE	180723_03_sample_67_patient_56_Dengue_1.raw	Dengue_1	NA	34	1	Dengue_1	#13A4EC	180723_03_sample_67_patient_56_Dengue_1	p_056_D_1	56	Dengue	1st
+137	FALSE	180723_04_sample_68_patient_55_Dengue_2.raw	Dengue_2	NA	34	1	Dengue_2	#ECC813	180723_04_sample_68_patient_55_Dengue_2	p_055_D_2	55	Dengue	2nd
+138	TRUE	180724_01_sample_QC18.raw	QC	NA	18	1	QC	#EC1313	180724_01_sample_QC18	QC18			
+139	FALSE	180724_02_sample_69_patient_65_Zika_1.raw	Zika_1	NA	26	1	Zika_1	#13EC80	180724_02_sample_69_patient_65_Zika_1	p_065_Z_1	65	Zika	1st
+140	FALSE	180724_03_sample_70_patient_85_Dengue_1.raw	Dengue_1	NA	35	1	Dengue_1	#13A4EC	180724_03_sample_70_patient_85_Dengue_1	p_085_D_1	85	Dengue	1st
+141	FALSE	180724_04_sample_71_patient_33_Zika_2.raw	Zika_2	NA	27	1	Zika_2	#5BEC13	180724_04_sample_71_patient_33_Zika_2	p_033_Z_2	33	Zika	2nd
+142	FALSE	180724_05_sample_72_patient_78_Dengue_2.raw	Dengue_2	NA	35	1	Dengue_2	#ECC813	180724_05_sample_72_patient_78_Dengue_2	p_078_D_2	78	Dengue	2nd
+143	TRUE	180724_06_sample_QC19.raw	QC	NA	19	1	QC	#EC1313	180724_06_sample_QC19	QC19			
+144	TRUE	180724_07_sample_QC20.raw	QC	NA	20	1	QC	#EC1313	180724_07_sample_QC20	QC20			
